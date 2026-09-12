@@ -4,7 +4,7 @@ import { Reveal } from '@/components/Reveal'
 import { WhatsAppIcon } from '@/components/Header'
 
 const HERO_IMG =
-  'https://i.imgur.com/tYbXXv2.jpeg'
+  'https://images.unsplash.com/photo-1553413077-190dd305871c?auto=format&fit=crop&w=1800&q=72'
 
 const trust = [
   {
