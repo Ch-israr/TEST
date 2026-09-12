@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Form submissions</title>
+  </head>
+  <body>
+    <!--
+      Static form skeleton for Netlify build-time form detection.
+      Required because this is an SSR app — Netlify's build bot cannot
+      detect forms rendered client-side. The React form in
+      src/components/sections/Contact.tsx submits via AJAX to this file.
+      Do not remove or rename fields without updating the React form.
+    -->
+    <form name="glink-enquiry" data-netlify="true" netlify-honeypot="bot-field" hidden>
+      <input type="hidden" name="form-name" value="glink-enquiry" />
+      <input name="bot-field" />
+      <input name="name" />
+      <input name="phone" />
+      <input name="email" />
+      <select name="storage_size"></select>
+      <select name="service"></select>
+      <textarea name="message"></textarea>
+    </form>
+  </body>
+</html>
