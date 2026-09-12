@@ -14,17 +14,17 @@ export const site = {
     "Flexible, secure and affordable self-storage solutions in the UAE, with professional moving services when you need them.",
 
   // ---- Contact details (placeholders — replace with real details) ----
-  phone: "+971 XX XXX XXXX",
-  phoneHref: "", // e.g. "+971501234567" — used for tel: links. Leave "" to disable the call button.
-  whatsapp: "", // e.g. "971501234567" — international format, no "+". Leave "" to hide WhatsApp buttons.
+  phone: "+971 52 923 1913,
+  phoneHref: "+971529231913", // e.g. "+971501234567" — used for tel: links. Leave "" to disable the call button.
+  whatsapp: "971529231913", // e.g. "971501234567" — international format, no "+". Leave "" to hide WhatsApp buttons.
   email: "info@glinkint.com",
   address: "Glink Int, United Arab Emirates", // e.g. "Warehouse 12, Al Quoz Industrial Area 3, Dubai"
 
   // Google Maps embed. Replace src with your Google Maps embed URL
   // (Google Maps → Share → Embed a map → copy the src attribute).
   // Leave src as "" to keep the styled placeholder box.
-  mapsEmbedSrc: "",
-  mapsLink: "", // e.g. "https://maps.google.com/?q=..." — used for the "Open in Google Maps" link.
+  mapsEmbedSrc: "<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d672.9216386561959!2d55.64185674264762!3d25.3392784457585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5f371ebfb653b%3A0x7d54dff6543dfc79!2sGolden%20Box%20Storage!5e1!3m2!1sen!2sae!4v1789206998085!5m2!1sen!2sae" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin">",
+  mapsLink: "https://maps.app.goo.gl/o3ggDwexfSELV7ZP7", // e.g. "https://maps.google.com/?q=..." — used for the "Open in Google Maps" link.
 
   // Storage pricing — displayed prices, easy to edit.
   // Prices are shown as "from AED X + VAT" and do not represent a binding quote.
