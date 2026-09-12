@@ -23,7 +23,7 @@ export const site = {
   // Google Maps embed. Replace src with your Google Maps embed URL
   // (Google Maps → Share → Embed a map → copy the src attribute).
   // Leave src as "" to keep the styled placeholder box.
-  mapsEmbedSrc: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d672.9216386561959!2d55.64185674264762!3d25.3392784457585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5f371ebfb653b%3A0x7d54dff6543dfc79!2sGolden%20Box%20Storage!5e1!3m2!1sen!2sae!4v1789206998085!5m2!1sen!2sae" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin",
+  mapsEmbedSrc: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d672.9216386561959!2d55.64185674264762!3d25.3392784457585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5f371ebfb653b%3A0x7d54dff6543dfc79!2sGolden%20Box%20Storage!5e1!3m2!1sen!2sae!4v1789206998085!5m2!1sen!2sae" style="border:0;" loading="lazy" referrerpolicy="strict-origin-when-cross-origin",
   mapsLink: "", // e.g. "https://maps.google.com/?q=..." — used for the "Open in Google Maps" link.
 
   // Storage pricing — displayed prices, easy to edit.
