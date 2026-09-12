@@ -14,7 +14,7 @@ export const site = {
     "Flexible, secure and affordable self-storage solutions in the UAE, with professional moving services when you need them.",
 
   // ---- Contact details (placeholders — replace with real details) ----
-  phone: "+971 52 923 1913,
+  phone: "+971 52 923 1913",
   phoneHref: "+971529231913", // e.g. "+971501234567" — used for tel: links. Leave "" to disable the call button.
   whatsapp: "971529231913", // e.g. "971501234567" — international format, no "+". Leave "" to hide WhatsApp buttons.
   email: "info@glinkint.com",
