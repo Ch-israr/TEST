@@ -16,7 +16,7 @@ export const site = {
   // ---- Contact details (placeholders — replace with real details) ----
   phone: "+971 52 923 1913",
   phoneHref: "+971529231913", // e.g. "+971501234567" — used for tel: links. Leave "" to disable the call button.
-  whatsapp: "971529231913", // e.g. "971501234567" — international format, no "+". Leave "" to hide WhatsApp buttons.
+  whatsapp: "+971529231913", // e.g. "971501234567" — international format, no "+". Leave "" to hide WhatsApp buttons.
   email: "info@glinkint.com",
   address: "Glink Int, United Arab Emirates", // e.g. "Warehouse 12, Al Quoz Industrial Area 3, Dubai"
 
