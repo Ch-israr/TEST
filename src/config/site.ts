@@ -23,8 +23,8 @@ export const site = {
   // Google Maps embed. Replace src with your Google Maps embed URL
   // (Google Maps → Share → Embed a map → copy the src attribute).
   // Leave src as "" to keep the styled placeholder box.
-  mapsEmbedSrc: "",
-  mapsLink: "", // e.g. "https://maps.google.com/?q=..." — used for the "Open in Google Maps" link.
+  mapsEmbedSrc: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d672.9216386561959!2d55.64185674264762!3d25.3392784457585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5f371ebfb653b%3A0x7d54dff6543dfc79!2sGolden%20Box%20Storage!5e1!3m2!1sen!2sae!4v1789208855095!5m2!1sen!2sae",
+  mapsLink: "https://www.google.com/maps/place/Golden+Box+Storage/@25.3393507,55.6416639,187m/data=!3m2!1e3!4b1!4m6!3m5!1s0x3ef5f371ebfb653b:0x7d54dff6543dfc79!8m2!3d25.3393507!4d55.6416639!16s%2Fg%2F11mcq386f4?entry=ttu&g_ep=EgoyMDI2MDkwOS4wIKXMDSoASAFQAw%3D%3D", // e.g. "https://maps.google.com/?q=..." — used for the "Open in Google Maps" link.
 
   // Storage pricing — displayed prices, easy to edit.
   // Prices are shown as "from AED X + VAT" and do not represent a binding quote.
