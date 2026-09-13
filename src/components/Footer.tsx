@@ -2,10 +2,6 @@ import { site, telHref, whatsappHref } from '@/config/site'
 import { Logo } from '@/components/Logo'
 import { WhatsAppIcon } from '@/components/Header'
 
-function LogoFooter() {
-  return <Logo dark />
-}
-
 const nav = [
   { label: 'Home', href: '/#home' },
   { label: 'Storage', href: '/#storage' },
@@ -26,9 +22,7 @@ export function Footer() {
         <div className="grid gap-10 md:grid-cols-[1.4fr_1fr_1fr] lg:gap-16">
           {/* Brand */}
           <div>
-            <div className="[&_span]:!text-white [&_.text-navy-950]:!text-white [&_.text-navy-500]:!text-white/55">
-              <LogoFooter />
-            </div>
+            <Logo dark />
             <p className="mt-5 max-w-sm text-sm leading-relaxed">
               {site.name} — {site.tagline} in the {site.location}. Secure storage for homes and
               businesses, plus professional moving services.
